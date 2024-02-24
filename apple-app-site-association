@@ -1,0 +1,15 @@
+{
+	"applinks": {
+		"details": [{
+			"appIDs": ["423H9M2ZL5.com.ashlirankin.pago"],
+			"components": [{
+				"/": "/universal_links*",
+				"comment": "Matches any URL with path=/post"
+			},
+			{
+				"/": "/*",
+				"comment": "Matches any URL whose path starts with /*"
+			}]
+		}]
+	}
+}
