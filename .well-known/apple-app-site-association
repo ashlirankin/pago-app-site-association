@@ -2,7 +2,7 @@
 	"applinks": {
 		"details": [
 		{
-			"appIDs": ["423H9M2ZL5.com.gordito.pago"],
+			"appIDs": ["4Z3H9M2ZL5.com.gordito.pago"],
 			"components": [
 			{
 				"/": "/universal_links*",
