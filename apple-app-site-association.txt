@@ -1,0 +1,27 @@
+{
+	"applinks": {
+		"details": [
+		{
+			"appIDs": ["4Z3H9M2ZL5.com.gordito.pago"],
+			"components": [
+			{
+				"/": "/universal_links*",
+				"comment": "Matches any URL with path=/universal_links"
+			},
+			{
+				"/": "/*",
+				"comment": "Matches any URL whose path starts with /*"
+			},
+              		 {
+                 		 "/": "/invite/*",
+                 		 "comment": "Matches any URL with a path that starts with /invite/."
+              		 },
+              		 {
+                	 	 "/": "/share_account_info/*",
+                	 	 "comment": "Matches any URL with a path that starts with /share_account_info/."
+             		  }
+			]
+		}
+	    ]
+	}
+}
